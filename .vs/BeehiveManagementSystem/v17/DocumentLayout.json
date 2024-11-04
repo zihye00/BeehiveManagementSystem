@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\nectarcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\nectarcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\honeymanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\honeymanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\eggcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\eggcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\honeyvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\honeyvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|d:\\01unity\\headfirst\\beehivemanagementsystem\\beehivemanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFB2CED-FBFE-44F8-B597-556218E51845}|BeehiveManagementSystem\\BeehiveManagementSystem.csproj|solutionrelative:beehivemanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\Bee.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\Bee.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\Bee.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\Bee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:10:44.81Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EggCare.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\EggCare.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\EggCare.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\EggCare.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\EggCare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:24:38.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\Queen.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\Queen.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\Queen.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\Queen.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:25:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NectarCollector.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\NectarCollector.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\NectarCollector.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\NectarCollector.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\NectarCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:24:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoneyManufacturer.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\HoneyManufacturer.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\HoneyManufacturer.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\HoneyManufacturer.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\HoneyManufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:11:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoneyVault.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\HoneyVault.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\HoneyVault.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\HoneyVault.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\HoneyVault.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:57:57.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\MainWindow.xaml",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\MainWindow.xaml",
+              "RelativeToolTip": "BeehiveManagementSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T10:22:11.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BeehiveManagementSystem\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\01Unity\\HeadFirst\\BeehiveManagementSystem\\BeehiveManagementSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BeehiveManagementSystem\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:22:10.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

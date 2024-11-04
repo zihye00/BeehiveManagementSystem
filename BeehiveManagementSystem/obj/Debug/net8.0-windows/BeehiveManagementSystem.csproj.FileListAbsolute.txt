@@ -1,0 +1,4 @@
+D:\01Unity\HeadFirst\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\01Unity\HeadFirst\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\net8.0-windows\App.g.cs
+D:\01Unity\HeadFirst\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\net8.0-windows\BeehiveManagementSystem_MarkupCompile.cache
+D:\01Unity\HeadFirst\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\net8.0-windows\BeehiveManagementSystem_MarkupCompile.lref
